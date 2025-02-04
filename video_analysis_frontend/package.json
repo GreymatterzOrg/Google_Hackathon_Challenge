@@ -1,0 +1,38 @@
+{
+  "name": "video-analysis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "",
+    "axios": "",
+    "rc-slider": "",
+    "react": "",
+    "react-dom": "",
+    "react-hot-toast": "^2.5.1",
+    "react-icons": "",
+    "react-loader-spinner": "",
+    "react-range-slider-input": "",
+    "react-router-dom": "",
+    "socket.io-client": "",
+    "tailwindcss": ""
+  },
+  "devDependencies": {
+    "@eslint/js": "",
+    "@types/react": "",
+    "@types/react-dom": "",
+    "@vitejs/plugin-react": "",
+    "eslint": "",
+    "eslint-plugin-react": "",
+    "eslint-plugin-react-hooks": "",
+    "eslint-plugin-react-refresh": "",
+    "globals": "",
+    "vite": ""
+  }
+}

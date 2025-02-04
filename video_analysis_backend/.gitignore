@@ -1,0 +1,13 @@
+venv
+_pycache_/database.cpython-310.pyc
+Controllers/__pycache__
+Models/__pycache__
+Dockerfile
+cache
+mlb_2.mp4
+mlb_3.mp4
+mlb_4.mp4
+mlb-video.mp4
+requirements_copy.txt
+google-hackhathon.zip
+__pycache__
